@@ -1,0 +1,14 @@
+{
+  "name": "sinopia-keys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ava"
+  },
+  "author": "Sindre Gulseth <sindre.gulseth@vg.no>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.10.0"
+  }
+}
