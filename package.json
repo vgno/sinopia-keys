@@ -1,8 +1,12 @@
 {
   "name": "sinopia-keys",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Authenticate sinopia with public and private keys",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/vgno/sinopia-keys"
+  },
   "scripts": {
     "test": "./node_modules/.bin/ava"
   },
